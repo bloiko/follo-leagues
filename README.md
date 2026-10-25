@@ -1,7 +1,7 @@
 # Follo league packs
 
 Пакети ліг для [Follo](https://github.com/bloiko/follo): одна папка на лігу, у ній `league.json` та емблеми.
-У додатку: Налаштування → Ліга → код = назва папки (наприклад `volodymyr`).
+У додатку: Налаштування → Ліга → код = назва папки (наприклад `volodymyr-district`).
 
 ```json
 {
