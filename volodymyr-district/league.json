@@ -1,9 +1,14 @@
 {
   "league": "Чемпіонат Володимирського району",
-  "version": 1,
+  "version": 2,
   "teams": [
-    { "id": "ivanychi", "name": "ФК Іваничі", "short": "ІВАНИЧІ", "colour": "#D91F26", "emblem": "ivanychi.png" },
-    { "id": "buzhanka", "name": "Пантери Бужанка", "short": "ПАНТЕРИ", "colour": "#1A1A1A", "emblem": "buzhanka.png" }
+    { "id": "ivanychi",  "name": "ФК Іваничі",        "short": "ІВАНИЧІ",   "colour": "#D91F26", "emblem": "ivanychi.png" },
+    { "id": "buzhanka",  "name": "Пантери Бужанка",   "short": "ПАНТЕРИ",   "colour": "#1A1A1A", "emblem": "buzhanka.png" },
+    { "id": "underdog",  "name": "ФК Андердог",       "short": "АНДЕРДОГ",  "colour": "#1E5BB8", "emblem": "underdog.png" },
+    { "id": "turia",     "name": "ФК Турія",          "short": "ТУРІЯ",     "colour": "#2E8B3A", "emblem": "turia.png" },
+    { "id": "pavlivka",  "name": "ФК Павлівка",       "short": "ПАВЛІВКА",  "colour": "#F2C230", "emblem": "pavlivka.png" },
+    { "id": "mykytychi", "name": "ФК Микитичі",       "short": "МИКИТИЧІ",  "colour": "#1C2A5A", "emblem": "mykytychi.png" },
+    { "id": "lishnia",   "name": "ФК Лішня-Sauvage",  "short": "ЛІШНЯ",     "colour": "#A7C83A", "emblem": "lishnia.png" }
   ],
   "replay": { "transition": "millWhite" }
 }
