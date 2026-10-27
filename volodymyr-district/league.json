@@ -1,6 +1,6 @@
 {
   "league": "Чемпіонат Володимирського району",
-  "version": 2,
+  "version": 3,
   "teams": [
     { "id": "ivanychi",  "name": "ФК Іваничі",        "short": "ІВАНИЧІ",   "colour": "#D91F26", "emblem": "ivanychi.png" },
     { "id": "buzhanka",  "name": "Пантери Бужанка",   "short": "ПАНТЕРИ",   "colour": "#1A1A1A", "emblem": "buzhanka.png" },
